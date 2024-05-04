@@ -1,4 +1,4 @@
-Eu sou um estudante de programação em python, a procura de estágios para adquirir experiência profissional, minha historia com a programação começou há quase uns 2 anos,
+Olá, Eu sou um estudante de programação em python, a procura de estágios para adquirir experiência profissional, minha historia com a programação começou há quase uns 2 anos,
 quando decidi estudar programação.
 Minha historia e interesse por tecnologia começou lá com meus 17 ou 18 anos sempre fui fascinado pela ideia de invadir redes e a curiosidade de como funcionava, eu comecei com o básico para desenvolvimento de sites, como eu ainda não trabalhava eu aprendia com canais no youtube, e alguns intensivos de programação além de alguns PDF que eu baixava, hoje pretendo seguir com a carreira de back-end mesmo sendo novato na área.
 
