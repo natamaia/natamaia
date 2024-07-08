@@ -24,3 +24,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natamaia&show_icons=true&theme=catppuccin_mocha)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natamaia&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/natamaia)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_maia.nt/)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/616060578649210881)
