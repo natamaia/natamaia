@@ -15,6 +15,10 @@
 **Ferramentas de Desenvolvimento**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
+
+**OS**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
   <br/>
 
 
