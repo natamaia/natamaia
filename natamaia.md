@@ -18,7 +18,7 @@
 
 **OS**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
   <br/>
 
 
