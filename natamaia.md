@@ -1,8 +1,9 @@
 ## Olá, eu sou Natanael Maia!!
 
-- ❤️ gosto de programar e ler livros de filosofia.
+- ❤️ Gosto de programar e ler livros de filosofia.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas. 
-- 💼 buscando emprego como desenvolvedor 
+- 💼 Buscando emprego como desenvolvedor
+- 📊 Conhecimento em Power BI
 
 **Aplicações e Dados**
 
@@ -21,7 +22,9 @@
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
   <br/>
 
+**Linguagens em aprendizado**
 
+[![My Skills](https://skillicons.dev/icons?i=c,java,mysql)](https://skillicons.dev)
 
 ### 📊 Estatísticas no GitHub
 
