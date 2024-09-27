@@ -28,9 +28,12 @@
 
 ### 📊 Estatísticas no GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natamaia&show_icons=true&theme=catppuccin_mocha)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natamaia&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natamaia&theme=catppuccin_mocha&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natamaia&layout=donut&&theme=catppuccin_mocha&langs_count=8&card_width=320" />
+</a>
 
 ### Redes Sociais
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/natamaia)
