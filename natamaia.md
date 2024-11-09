@@ -7,7 +7,7 @@
 
 **Aplicações e Dados**
 
-  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
 
 **DevOps**
 
@@ -19,12 +19,12 @@
 
 **OS**
 
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,kali,windows)](https://skillicons.dev)
   <br/>
 
 **Linguagens em aprendizado**
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,mysql)](https://skillicons.dev)
 
 ### 📊 Estatísticas no GitHub
 
