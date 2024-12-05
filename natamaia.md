@@ -1,30 +1,30 @@
 ## Olá, eu sou Natanael Maia!!
 
-- ❤️ Gosto de programar e ler livros de filosofia.
+- ❤️ Gosto de programar e ler livros.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas. 
-- 💼 Buscando emprego como desenvolvedor
-- 📊 Conhecimento em Power BI
+- 💼 Buscando estágio/emprego como desenvolvedor
+- 📊 Conhecimento em Power BI e PowerPoint
 
 **Aplicações e Dados**
 
   [![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
 
-**DevOps**
+**Versionamento**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-**Ferramentas de Desenvolvimento**
+**Esditor de código**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,eclipse)](https://skillicons.dev)
 
 **OS**
 
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,kali,windows)](https://skillicons.dev)
   <br/>
 
-**Linguagens em aprendizado**
+**Estudando**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,postgresql)](https://skillicons.dev)
 
 ### 📊 Estatísticas no GitHub
 
