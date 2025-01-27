@@ -37,7 +37,7 @@
 
 ### Repositorios e Contribuições
 
-**[Back-End APIRestFull]([link-to-repo](https://github.com/natamaia/Java_API_restfull_BackEnd.git))**
+**[Back-End APIRestFull](https://github.com/natamaia/Java_API_restfull_BackEnd.git)**
   - trabalhando na crianção de um back-end com java e springboot para desenvolver meu conhecimento na linguagem java
 
 
