@@ -1,9 +1,10 @@
 ## Olá, eu sou Natanael Maia!!
 
-- ❤️ Gosto de programar e ler livros.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas. 
-- 💼 Buscando estágio/emprego como desenvolvedor
-- 📊 Conhecimento em Power BI e PowerPoint
+#Sobre Mim
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas e Defesa de redes.
+- 💻 Explorando vulnerabilidades e quebra de senha com kali 
+- 💼 IT Support
+- 📚 
 
 **Aplicações e Dados**
 
