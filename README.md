@@ -4,7 +4,6 @@
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas e Defesa de redes.
 - 💻 Explorando vulnerabilidades e quebra de senha com kali 
 - 💼 IT Support
-- 📚 
 
 **Aplicações e Dados**
 
