@@ -1,10 +1,11 @@
 ## Olá, eu sou Natanael Maia!!
 
 #Sobre Mim
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas e Defesa de redes.
-- 💻 vulnerability exploit e quebra de senha com kali 
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas.
+- 💻 vulnerability exploit e quebra de senha.
 - 💼 IT Support
-
+- 👨‍💻 Java e C++
+  
 **Aplicações e Dados**
 
   [![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
