@@ -3,11 +3,11 @@
 ## About me
 
 - 🎓 Análise e Desenvolvimento de Sistemas.
-- 💻 Analista de Segurança da Informação
-- 💼 IT Support
+- 💻 Analista de Segurança da Informação.
+- 💼 IT Support.
 - 👨‍💻 Java, C/C++
-- 🖥 Debian and Windows
-
+- 🖥 Debian
+  
   
 ### 📊 Estatísticas no GitHub
 
