@@ -5,7 +5,7 @@
 - 🎓 Análise e Desenvolvimento de Sistemas.
 - 💻 Analista de Segurança da Informação.
 - 💼 IT Support.
-- 👨‍💻 Java, C/C++
+- 👨‍💻 Java, Csharp
 - 🖥 Debian
   
   
