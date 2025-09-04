@@ -24,8 +24,8 @@
 </a>
 
 
-**[Repositorios de projetos](https://github.com/natamaia/academic-projects/blob/main/README.md)**
-  - repositorio para centralizar os projetos em um Markdown
+##
+- **[Repositorios de projetos](https://github.com/natamaia/academic-projects/blob/main/README.md)**
 
 
 ### Contacts  
