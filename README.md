@@ -20,7 +20,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=natamaia&theme=catppuccin_mocha&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natamaia&layout=donut&&theme=catppuccin_mocha&langs_count=4&card_width=320" />
+  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natamaia&layout=donut&&theme=catppuccin_mocha&langs_count=1000&card_width=320" />
 </a>
 
 
